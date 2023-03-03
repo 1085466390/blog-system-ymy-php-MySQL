@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.logged{width: 300px;;margin: 0 auto;}
+.logged a{text-decoration:none;}
+.logged-top{background: #E1E1E1;border-radius: 25px 25px 0px 0px;border-radius:  5px 5px 5px 5px;padding-top:20px;padding-bottom:20px;padding-left:20px;padding-right:20px;text-align:center;}
+.logged-top .ucontent .username{margin-top:10px;}
+.logged-top .ucontent .username a{font-size:20px;font-weight:500px;font-family:"黑体";color:#000;}
+.logged-top .ucontent .userword{font-size:20px;font-weight:500px;font-family:"黑体";color:#000;}
+.logged-top .ucontent .useraction{margin-top:10px;}
+.logged-top .ucontent .useraction a, .logged-top .ucontent .useraction2 a{font-size:18px;font-weight:500px;font-family:"黑体";color:#000;}
+.logged-top .ucontent .useraction a:hover, .logged-top .ucontent .useraction2 a:hover, .logged-top .ucontent .username a:hover{color: #ff9406;}

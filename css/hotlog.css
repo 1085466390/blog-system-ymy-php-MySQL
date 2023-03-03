@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+#_hotlog{margin:0 auto;border:1px #693 dashed;width:833px;}
+#_hotlog .hotlog-top .left{width:90px;display:inline-block;vertical-align:top;}
+#_hotlog .hotlog-top .right{width:730px;display:inline-block;vertical-align:top;}
+#_hotlog .hotlog-top .right .content{margin-top:10px;}
+#_hotlog .hotlog-bottom{width:833px;margin-top:10px;}
+#_hotlog .hotlog-bottom .func{display:inline-block;width:31%;text-align:center;}
+#_hotlog .hotlog-bottom .func a, #_hotlog .hotlog-top .right a{text-decoration:none;color:#000;}
+#_hotlog span{color:#999;}
